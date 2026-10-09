@@ -15,7 +15,7 @@ shap==0.42.1
 lime==0.2.0.1
 
 # Geospatial calculations
-geopy==2.3.0
+geopy==2.5.0
 
 # Visualization
 matplotlib==3.7.1
